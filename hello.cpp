@@ -97,5 +97,5 @@ int main(){
         }
         else if(x=="*") break;
     }
-    //blesss
+    //blesss you
 }
